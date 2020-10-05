@@ -1,0 +1,3 @@
+.idea/
+plugins/*
+!plugins/.gitkeep 
